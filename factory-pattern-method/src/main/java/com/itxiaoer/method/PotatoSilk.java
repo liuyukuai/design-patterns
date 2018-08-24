@@ -8,6 +8,6 @@ package com.itxiaoer.method;
 public class PotatoSilk implements Food {
     @Override
     public void name() {
-        System.out.println("你点了土豆丝");
+        System.out.println("您点了土豆丝");
     }
 }
