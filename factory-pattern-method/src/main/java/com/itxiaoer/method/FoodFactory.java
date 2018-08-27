@@ -7,9 +7,9 @@ package com.itxiaoer.method;
  */
 public interface FoodFactory {
     /**
-     * 创建产品
+     * 创建
      *
-     * @return 产品
+     * @return 食物
      */
     Food create();
 
